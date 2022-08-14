@@ -1,10 +1,17 @@
-# Roadmap pour implementer la connexion
-## 1. Posez le problème
+# Programme partie 2
+1 - Écoutez la requête d'un utilisateur via l'url
+2 - Administrez un formulaire de façon sécurisée
+3 - Implémentation d'un système de connexion
+4 - Conserver les données de navigation via les sessions et cookies
+
+
+## Roadmap pour implementer la connexion
+### 1. Posez le problème
 On doit soumettre un e-mail et un mot de passe dans un formulaire de connexion.
 
 Si le formulaire est valide, nous affichons un message de succès, et sinon un message d'erreur. La liste de recettes n'est affichée qu'à un utilisateur qui s'est connecté avec succès.
 
-## 2. Schématisez le code
+### 2. Schématisez le code
 Pour que l'utilisateur puisse entrer le mot de passe, le plus simple est de créer un formulaire. Celui-ci sera directement intégré dans la page d'accueil du site telle que nous la connaissons déjà.
 
 Trois situations peuvent survenir :
@@ -21,7 +28,7 @@ login.php : contient un simple formulaire comme vous savez les faire ;
 
 home.php : qui doit maintenant inclure une formulaire de connexion et une condition sur l'affichage des recettes.
 
-## 3. Mobilisez les connaissances requises
+### 3. Mobilisez les connaissances requises
 Nous avons détaillé les connaissances requises au début de ce chapitre. Vous allez voir que ce n'est qu'une simple application pratique de ce que vous connaissez déjà, mais cela sera une bonne occasion de vous entraîner.
 
 Bon ! On a préparé le terrain ensemble ; maintenant, vous savez tout ce qu'il faut pour réaliser le script !
