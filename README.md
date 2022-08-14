@@ -1,9 +1,9 @@
 # Programme partie 2
 
-1 - Écoutez la requête d'un utilisateur via l'url
-2 - Administrez un formulaire de façon sécurisée
-3 - Implémentation d'un système de connexion
-4 - Conserver les données de navigation via les sessions et cookies
+1. Écoutez la requête d'un utilisateur via l'url
+2. Administrez un formulaire de façon sécurisée
+3. Implémentation d'un système de connexion
+4. Conserver les données de navigation via les sessions et cookies
 
 
 ## Roadmap pour implementer la connexion
